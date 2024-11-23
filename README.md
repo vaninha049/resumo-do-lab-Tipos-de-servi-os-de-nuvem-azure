@@ -12,29 +12,29 @@ Oferece infraestrutura virtualizada, como servidores, redes, armazenamento e sis
 Maior controle sobre a infraestrutura.
 Ideal para migração de data centers, ambientes de teste e desenvolvimento.
 Responsabilidade do cliente: configuração, manutenção e gerenciamento do sistema operacional e aplicativos.
-Exemplo no Azure:
+### Exemplo no Azure:
 Máquinas Virtuais (Azure Virtual Machines).
 Redes Virtuais (Azure Virtual Network).
 Armazenamento (Azure Blob Storage).
 
 ## 2. PaaS (Platform as a Service) - Plataforma como Serviço
 Oferece uma plataforma completa para desenvolvimento, implantação e gerenciamento de aplicativos, eliminando a necessidade de gerenciar a infraestrutura subjacente.
-Características:
+### Características:
 Foco no desenvolvimento de aplicativos.
 Suporte integrado para bancos de dados, linguagens de programação e ferramentas.
 Escalabilidade automática.
-Exemplo no Azure:
+### Exemplo no Azure:
 Azure App Services.
 Azure Functions.
 Azure SQL Database.
 
 ## 3. SaaS (Software as a Service) - Software como Serviço
 Fornece aplicativos prontos para uso, acessados pela internet, sem necessidade de instalação ou gerenciamento por parte do cliente.
-Características:
+### Características:
 Uso baseado em assinatura.
 Atualizações e manutenção gerenciadas pelo provedor.
 Ideal para e-mails, ferramentas de colaboração e CRM.
-Exemplo no Azure:
+### Exemplo no Azure:
 Microsoft 365.
 Dynamics 365.
 Power BI.
