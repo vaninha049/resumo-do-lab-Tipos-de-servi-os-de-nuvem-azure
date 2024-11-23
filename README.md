@@ -46,8 +46,8 @@ PaaS	Aplicativos e dados	Sistema operacional e infraestrutura	Desenvolvimento de
 SaaS	Apenas o uso do software	Toda a infraestrutura	Acesso a aplicativos prontos
 
 ## Resumo Prático
-IaaS: Infraestrutura flexível para maior controle.
-PaaS: Plataforma para desenvolver e gerenciar aplicativos sem preocupação com a infraestrutura.
-SaaS: Soluções prontas para uso, sem necessidade de gerenciamento técnico.
+### IaaS: Infraestrutura flexível para maior controle.
+### PaaS: Plataforma para desenvolver e gerenciar aplicativos sem preocupação com a infraestrutura.
+### SaaS: Soluções prontas para uso, sem necessidade de gerenciamento técnico.
 
 ## Para mais detalhes, visite a documentação oficial do Azure.
