@@ -8,7 +8,7 @@ O Azure oferece diferentes tipos de serviços de nuvem para atender a diversas n
 
 ## 1. IaaS (Infrastructure as a Service) - Infraestrutura como Serviço
 Oferece infraestrutura virtualizada, como servidores, redes, armazenamento e sistemas operacionais, que podem ser configurados e gerenciados pelo cliente.
-Características:
+### Características:
 Maior controle sobre a infraestrutura.
 Ideal para migração de data centers, ambientes de teste e desenvolvimento.
 Responsabilidade do cliente: configuração, manutenção e gerenciamento do sistema operacional e aplicativos.
